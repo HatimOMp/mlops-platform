@@ -1,0 +1,13 @@
+mlflow
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+streamlit
+requests
+python-dotenv
+pydantic
+plotly
+seaborn
+matplotlib
